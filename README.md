@@ -1,5 +1,6 @@
 # React + Vite
 ![Screenshot (198)](https://github.com/Akil-GH/Stratzy-assignment/assets/139623503/0ba282c9-88c8-4cf8-b66f-e4cc4a049f4b)
+![Screenshot (204)](https://github.com/Akil-GH/Stratzy-assignment/assets/139623503/390c64ab-f949-4d65-9350-a811ab2bdbe6)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
